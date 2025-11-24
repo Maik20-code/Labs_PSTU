@@ -3,8 +3,18 @@ using namespace std;
  
 int main() 
 {
-    int a, b, c;
-    cin >> a >> b >> c;
-    cout<<max(a,max(b,c))<<endl;
+    int a,b,c,max;
+    cin>>a>>b>>c;
+    if (a>b){
+        max=a;
+    }
+    else{
+        b=max;
+    }
+    if (c>max){
+        max=c;
+    }
+    cout<<max<<endl;
     return 0;
+
 }
