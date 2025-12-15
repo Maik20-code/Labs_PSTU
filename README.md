@@ -30,6 +30,12 @@
 |  20 |  2.15 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_15/2.15.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_15/2.15.jpg)  |
 |  21 |  2.16 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_16/2.16.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_16/2.16.jpg)  |
 |  22 |  2.17 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_17/2.17.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_17/2.17.jpg)  |
+|  23 |  2.18 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_18/2.18.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_18/2.18.jpg)  |
+|  24 |  2.19 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_19/2.19.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_19/2.19.jpg)  |
+|  25 |  2.20 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_20/2.20.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_20/2.20.jpg)  |
+|  26 |  2.21 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_21/2.21.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_21/2.21.jpg)  |
+|  27 |  2.22 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_22/2.22.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_22/2.22.jpg)  |
+|  28 |  2.23 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_23/2.23.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_23/2.23.jpg)  |
 
 ## 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
