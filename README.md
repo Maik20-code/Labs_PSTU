@@ -36,7 +36,14 @@
 |  26 |  2.21 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_21/2.21.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_21/2.21.jpg)  |
 |  27 |  2.22 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_22/2.22.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_22/2.22.jpg)  |
 |  28 |  2.23 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_23/2.23.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/2_23/2.23.jpg)  |
-
+|  29 |  ptr_1 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_1/ptr_1.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_1/ptr_1.jpg)  |
+|  30 |  ptr_2 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_2/ptr_2.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_2/ptr_2.jpg)  |
+|  31 |  ptr_3 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_3/ptr_3.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_3/ptr_3.jpg)  |
+|  32 |  ptr_4 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_4/ptr_4.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_4/ptr_4.jpg)  |
+|  33 |  ptr_5 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_5/ptr_5.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_5/ptr_5.jpg)  |
+|  34 |  eq_Half |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Half/eq_Half.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Half/eq_Half.jpg)  |
+|  35 |  eq_Newton |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Newton/eq_Newton.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Newton/eq_Newton.jpg)  |
+|  36 |  eq_Iter |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Newton/eq_Newton.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Newton/eq_Newton.jpg)  |
 ## 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
