@@ -43,7 +43,7 @@
 |  33 |  ptr_5 |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_5/ptr_5.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/ptr_5/ptr_5.jpg)  |
 |  34 |  eq_Half |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Half/eq_Half.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Half/eq_Half.jpg)  |
 |  35 |  eq_Newton |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Newton/eq_Newton.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Newton/eq_Newton.jpg)  |
-|  36 |  eq_Iter |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Newton/eq_Newton.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Newton/eq_Newton.jpg)  |
+|  36 |  eq_Iter |  Готово   |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Iter/eq_Iter.cpp)  |  (https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_1/eq_Iter/eq_Iter.jpg)  |
 ## 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
