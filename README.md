@@ -47,4 +47,4 @@
 ## 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
-|     |     |     |     |     |
+|     |  Bubble_sort   |   🟢/🟢  |   [код](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Sort/Bubble/Bubble_sort.cpp)  |   [схема](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Sort/Bubble/Bubble_sort.jpg)  |
