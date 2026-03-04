@@ -35,7 +35,7 @@ int main() {
 	bool found=false;
 	for (int i=1; i<rows; i++){
 	    for (int j=1; j<cols; j++){
-	        if (arr[i][0]==arr[0][j]){ //&& i!=0 && j!=0){
+	        if (arr[i][0]==arr[0][j]){
 	            cout<<"Совпадение: строка "<<i+1<<" (первый элемент = "<<arr[i][0]<<") и столбца "<<j+1<<" (первый элемент = "<<arr[0][j]<<")"<<endl;
 	            swapRowAndCol(arr, i, j);
 	            found=true;
