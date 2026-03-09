@@ -47,14 +47,17 @@
 ## 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
-|     |  Bubble_sort   |   🟢/🟢  |   [сode](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Sort/Bubble/Bubble_sort.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Sort/Bubble/Bubble_sort.jpg)  |
-|     |  Insertion_sort   |   🟢/🟢  |  [сode](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Sort/Insertion/Insertion.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Sort/Insertion/Insertion_sort.jpg)  |
-|     |  Selection_sort   |   🟢/🟢  |   [сode](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Sort/Selection/Selection.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Sort/Selection/Selection_sort.jpg)  |
-|     |   Static_ars  |   🟢/🟢  |   [directory](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/Static_massivs)  |
+|     |  Simple_sorts   |   🟢/🟢  |   [directory](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/Sort)  |      |
+|     |   Static_ars  |  🟢/🟢  |   [directory](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/Static_massivs)  |      |
+|     |   Hanoi_tower  |  🟢/🟢   |    [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Hanoi_tower/ht.cpp)   |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Hanoi_tower/hanoi_tower.jpg)     |
+|     |   Fibon_numbers  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/fibon_nums/fn.cpp)    |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/fibon_nums/fibon.jpg)     |
+|     |   Eight_queens   |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Eight_Queens/Equeens.cpp)   | [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Eight_Queens/8%20qeu.jpg)     |
+|     |   Green_3_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_3_7/Green_3_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_3_7/3_7.jpg)    |
 |     |   Green_4_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_4_7/4_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_4_7/4_7.jpg)  |
 |     |   Green_5_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_5_7/5_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_5_7/5.7.jpg)    |
-|     |   Green_6_7  |   🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/Green_6_7.cpp)  |     |
+|     |   Green_6_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/Green_6_7.cpp)  |     |    [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/6_7.jpg)
 |     |   Green_7.1_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/Green_7.1_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/7.1.7.jpg)    |
 |     |   Green_7.2_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/Green_7.2_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/7.2.7.jpg)    |
+|     |   Green_8_7  |   🟢/🔴 |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/Green_8_7.cpp)    |   not yet    |
 |     |   Green_10_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_10_7/Green_10_7.cpp)   |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_10_7/10.7.jpg)     |
 
