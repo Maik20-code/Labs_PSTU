@@ -59,5 +59,6 @@
 |     |   Green_7.1_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/Green_7.1_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/7.1.7.jpg)    |
 |     |   Green_7.2_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/Green_7.2_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/7.2.7.jpg)    |
 |     |   Green_8_7  |   🟢/🟢 |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/Green_8_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/8.7.jpg)    |
+|     |   Green_9_7  |   🟢/🟢 |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/Green_9_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/9.7.jpg)    |
 |     |   Green_10_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_10_7/Green_10_7.cpp)   |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_10_7/10.7.jpg)     |
 
