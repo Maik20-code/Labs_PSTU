@@ -47,25 +47,25 @@
 ## 2 семестр
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
-|     |   Green_4_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_4_7/4_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_4_7/4_7.jpg)  |
-|     |   Green_5_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_5_7/5_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_5_7/5.7.jpg)    |
-|     |   Green_3_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_3_7/Green_3_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_3_7/3_7.jpg)    |
-|     |   Fibon_numbers  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/fibon_nums/fn.cpp)    |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/fibon_nums/fibon.jpg)     |
-|     |   Hanoi_tower  |  🟢/🟢   |    [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Hanoi_tower/ht.cpp)   |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Hanoi_tower/hanoi_tower.jpg)     |
-|     |   Eight_queens   |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Eight_Queens/Equeens.cpp)   | [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Eight_Queens/8%20qeu.jpg)     |
-|     |   Simple_sort   |   🟢/🟢  | [directory](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/Sort)  |
-|     |   Green_10_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_10_7/Green_10_7.cpp)   |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_10_7/10.7.jpg)     |
-|     |   Green_7.1_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/Green_7.1_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/7.1.7.jpg)    |
-|     |   Green_7.2_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/Green_7.2_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/7.2.7.jpg)    |
-|     |   Green_6_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/Green_6_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/6_7.jpg)  |
-|     |   Green_9_7  |   🟢/🟢 |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/Green_9_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/9.7.jpg)    |
-|     |   Green_8_7  |   🟢/🟢 |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/Green_8_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/8.7.jpg)    |
-|     |   Green_11.1_7   |  🟢/ red_circle  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.1_7/Green_11.1_7.cpp)    |   scheme not yet   |
-|     |   Green_11.2_7   |  🟢/   |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.2_7/Green_11.2_7.cpp)    |   scheme not yet   |
-|     |   Green_11.3_7   |  🟢/   |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.3_7/Green_11.3_7.cpp)    |   scheme not yet   |
-|     |   Green_11.4_7   |  🟢/   |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.4_7/Green_11.4_7.cpp)    |   scheme not yet   |
-|     |   LinSearch   |  🟢/   |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/LinSearch/LinSearch.cpp)    |   scheme not yet   |
-|     |   BinSearch   |  🟢/   |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/BinSearch/BinSearch.cpp)    |   scheme not yet   |
-|     |   InterpolSearch   |  🟢/   |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/InterpolSearch/InterpolSearch.cpp)   |   scheme not yet   |
+|  1  |   Green_4_7  |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_4_7/4_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_4_7/4_7.jpg)  |
+|  2  |   Green_5_7  |  🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_5_7/5_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_5_7/5.7.jpg)    |
+|  3  |   Green_3_7  |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_3_7/Green_3_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_3_7/3_7.jpg)    |
+| 3.1 |   Fibon_numbers  |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/fibon_nums/fn.cpp)    |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/fibon_nums/fibon.jpg)     |
+|  4  |   Hanoi_tower  |  🟢/🟢   |    [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Hanoi_tower/ht.cpp)   |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Hanoi_tower/hanoi_tower.jpg)     |
+|  5  |   Eight_queens   |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Eight_Queens/Equeens.cpp)   | [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Eight_Queens/8%20qeu.jpg)     |
+|  6  |   Simple_sort   |   🟢/🟢  | [directory](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/Sort)  |
+|  7  |   Green_10_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_10_7/Green_10_7.cpp)   |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_10_7/10.7.jpg)     |
+|  8  |   Green_7.1_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/Green_7.1_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/7.1.7.jpg)    |
+|  9  |   Green_7.2_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/Green_7.2_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/7.2.7.jpg)    |
+| 10  |   Green_6_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/Green_6_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/6_7.jpg)  |
+| 11  |   Green_9_7  |   🟢/🟢 |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/Green_9_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/9.7.jpg)    |
+| 12  |   Green_8_7  |   🟢/🟢 |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/Green_8_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/8.7.jpg)    |
+| 13  |   Green_11.1_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.1_7/Green_11.1_7.cpp)    |   scheme not yet   |
+| 14  |   Green_11.2_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.2_7/Green_11.2_7.cpp)    |   scheme not yet   |
+| 15  |   Green_11.3_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.3_7/Green_11.3_7.cpp)    |   scheme not yet   |
+| 16  |   Green_11.4_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.4_7/Green_11.4_7.cpp)    |   scheme not yet   |
+| 17  |   LinSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/LinSearch/LinSearch.cpp)    |   scheme not yet   |
+| 18  |   BinSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/BinSearch/BinSearch.cpp)    |   scheme not yet   |
+| 19  |   InterpolSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/InterpolSearch/InterpolSearch.cpp)   |   scheme not yet   |
 
 
