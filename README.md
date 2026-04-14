@@ -64,8 +64,8 @@
 | 14  |   Green_11.2_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.2_7/Green_11.2_7.cpp)    |   scheme not yet   |
 | 15  |   Green_11.3_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.3_7/Green_11.3_7.cpp)    |   scheme not yet   |
 | 16  |   Green_11.4_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.4_7/Green_11.4_7.cpp)    |   scheme not yet   |
-| 17  |   LinSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/LinSearch/LinSearch.cpp)    |   scheme not yet   |
-| 18  |   BinSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/BinSearch/BinSearch.cpp)    |   scheme not yet   |
-| 19  |   InterpolSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/InterpolSearch/InterpolSearch.cpp)   |   scheme not yet   |
+| 17.1  |   LinSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/LinSearch/LinSearch.cpp)    |   scheme not yet   |
+| 17.2  |   BinSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/BinSearch/BinSearch.cpp)    |   scheme not yet   |
+| 17.3  |   InterpolSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/InterpolSearch/InterpolSearch.cpp)   |   scheme not yet   |
 
 
