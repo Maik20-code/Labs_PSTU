@@ -2,7 +2,6 @@
 #include <cstring>
 #include <windows.h>
 using namespace std;
-
 int* nativeSearch(const char* text, const char* pattern, int& outCount) {
 	outCount = 0;
 	int n = strlen(text);
@@ -31,7 +30,6 @@ int* nativeSearch(const char* text, const char* pattern, int& outCount) {
 	return properEntr;
 }
 int main() {
-	SetConsoleCP(CP_UTF8);
 	SetConsoleOutputCP(CP_UTF8);
 	const char* text = "AABAACAADAABAABA";
 	const char* pattern = "AABA";
