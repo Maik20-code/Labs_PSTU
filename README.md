@@ -58,15 +58,15 @@
 |  8  |   Green_7.1_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/Green_7.1_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/7.1.7.jpg)    |
 |  9  |   Green_7.2_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/Green_7.2_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/7.2.7.jpg)    |
 | 10  |   Green_6_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/Green_6_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/6_7.jpg)  |
-| 11  |   Green_9_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/Green_9_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/9.7.jpg)    |
-| 12  |   Green_8_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/Green_8_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/8.7.jpg)    |
-| 13  |   Green_11.1_7   |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.1_7/Green_11.1_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.1_7/11.1.7.jpg)   |
-| 14  |   Green_11.2_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.2_7/Green_11.2_7.cpp)    |   scheme not yet   |
-| 15  |   Green_11.3_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.3_7/Green_11.3_7.cpp)    |   scheme not yet   |
-| 16  |   Green_11.4_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.4_7/Green_11.4_7.cpp)    |   scheme not yet   |
-| 17.1  |  LinSearch  |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/LinSearch/LinSearch.cpp)    |   scheme not yet   |
-| 17.2  |  BinSearch  |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/BinSearch/BinSearch.cpp)    |   scheme not yet   |
-| 17.3  |  InterpolSearch  |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/InterpolSearch/InterpolSearch.cpp)   |   scheme not yet   |
+| 11  |   Green_9_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/Green_9_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/9.7.jpg)    |
+| 12  |   Green_8_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/Green_8_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/8.7.jpg)    |
+| 13  |   Green_11.1_7   |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.1_7/Green_11.1_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.1_7/11.1.7.jpg)   |
+| 14  |   Green_11.2_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.2_7/Green_11.2_7.cpp)  |   scheme not yet   |
+| 15  |   Green_11.3_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.3_7/Green_11.3_7.cpp)  |   scheme not yet   |
+| 16  |   Green_11.4_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.4_7/Green_11.4_7.cpp)  |   scheme not yet   |
+| 17.1  |  LinSearch  |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/LinSearch/LinSearch.cpp)  |   scheme not yet   |
+| 17.2  |  BinSearch  |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/BinSearch/BinSearch.cpp)  |   scheme not yet   |
+| 17.3  |  InterpolSearch  |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/InterpolSearch/InterpolSearch.cpp)  |   scheme not yet   |
 | 18.1  |  NativeSearch  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/NativeSearch/NatSearch.cpp)  |  scheme not yet  |
 | 18.2  |  KMPSearch  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/KMPSearch/KMPSearch.cpp)  |  scheme not yet  |
 | 18.3  |  BMSearch  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/BMSearch/BMSearch.cpp)  |  scheme not yet  |
