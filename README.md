@@ -49,8 +49,8 @@
 | --- | --- | --- | --- | --- |
 |  1  |   Green_4_7  |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_4_7/4_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_4_7/4_7.jpg)  |
 |  2  |   Green_5_7  |  🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_5_7/5_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_5_7/5.7.jpg)    |
-|  3  |   Green_3_7  |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_3_7/Green_3_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_3_7/3_7.jpg)    |
-| 3.1 |   Fibon_numbers  |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/fibon_nums/fn.cpp)    |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/fibon_nums/fibon.jpg)     |
+| 3.1 |   Green_3_7  |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_3_7/Green_3_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_3_7/3_7.jpg)    |
+| 3.2 |   Fibon_numbers  |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/fibon_nums/fn.cpp)    |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/fibon_nums/fibon.jpg)     |
 |  4  |   Hanoi_tower  |  🟢/🟢   |    [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Hanoi_tower/ht.cpp)   |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Hanoi_tower/hanoi_tower.jpg)     |
 |  5  |   Eight_queens   |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Eight_Queens/Equeens.cpp)   | [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Eight_Queens/8%20qeu.jpg)     |
 |  6  |   Simple_sort   |   🟢/🟢  | [directory](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/Sort)  |
@@ -58,14 +58,21 @@
 |  8  |   Green_7.1_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/Green_7.1_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.1_7/7.1.7.jpg)    |
 |  9  |   Green_7.2_7  |   🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/Green_7.2_7.cpp)   |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_7.2_2/7.2.7.jpg)    |
 | 10  |   Green_6_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/Green_6_7.cpp)  |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_6_7/6_7.jpg)  |
-| 11  |   Green_9_7  |   🟢/🟢 |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/Green_9_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/9.7.jpg)    |
-| 12  |   Green_8_7  |   🟢/🟢 |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/Green_8_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/8.7.jpg)    |
+| 11  |   Green_9_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/Green_9_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_9_7/9.7.jpg)    |
+| 12  |   Green_8_7  |   🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/Green_8_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_8_7/8.7.jpg)    |
 | 13  |   Green_11.1_7   |  🟢/🟢  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.1_7/Green_11.1_7.cpp)    |   [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.1_7/11.1.7.jpg)   |
 | 14  |   Green_11.2_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.2_7/Green_11.2_7.cpp)    |   scheme not yet   |
 | 15  |   Green_11.3_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.3_7/Green_11.3_7.cpp)    |   scheme not yet   |
 | 16  |   Green_11.4_7   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Green_11/Green_11.4_7/Green_11.4_7.cpp)    |   scheme not yet   |
-| 17.1  |   LinSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/LinSearch/LinSearch.cpp)    |   scheme not yet   |
-| 17.2  |   BinSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/BinSearch/BinSearch.cpp)    |   scheme not yet   |
-| 17.3  |   InterpolSearch   |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/InterpolSearch/InterpolSearch.cpp)   |   scheme not yet   |
-
-
+| 17.1  |  LinSearch  |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/LinSearch/LinSearch.cpp)    |   scheme not yet   |
+| 17.2  |  BinSearch  |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/BinSearch/BinSearch.cpp)    |   scheme not yet   |
+| 17.3  |  InterpolSearch  |  🟢/🔴  |   [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Simple_search/InterpolSearch/InterpolSearch.cpp)   |   scheme not yet   |
+| 18.1  |  NativeSearch  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/NativeSearch/NatSearch.cpp)  |  scheme not yet  |
+| 18.2  |  KMPSearch  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/KMPSearch/KMPSearch.cpp)  |  scheme not yet  |
+| 18.3  |  BMSearch  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/BMSearch/BMSearch.cpp)  |  scheme not yet  |
+| 19.1  |  LomutoSort  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/LomutoSort/LomutoSort.cpp)  |  scheme not yet  |
+| 19.2  |  MergeSort  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/MergeSort/MergeSort.cpp)  |  scheme not yet  |
+| 19.3  |  BucketSort  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/BucketSort/BucketSort.cpp)  |  scheme not yet  |
+| 19.4  |  CountSort  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/CountSort/CountSort.cpp)  |  scheme not yet  |
+| 20.1  |  ShellSort  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/ShellSort/ShellSort.cpp)  |  scheme not yet  |
+| 20.2  |  HoareSort  |  🟢/🔴  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/HoarSort/HoarSort.cpp)  |  scheme not yet  |
