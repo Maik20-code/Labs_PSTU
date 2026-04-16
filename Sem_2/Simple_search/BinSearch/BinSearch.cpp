@@ -10,13 +10,6 @@ int binarySearch(int arr[], int low, int high, int x) {
 	}
 	return -1;
 }
-int binarySearchRecursive(int arr[], int low, int high, int x) {
-	if (low > high) return -1;
-	int mid = low + (high - low) / 2;
-	if (arr[mid] == x) return mid;
-	if (arr[mid] < x) return binarySearchRecursive(arr, mid + 1, high, x);
-	return binarySearchRecursive(arr, low, mid - 1, x);
-}
 void printArr(int arr[], int n) {
 	cout << "[";
 	for (int i = 0; i < n; i++) {
@@ -49,8 +42,5 @@ int main() {
 	int res = binarySearch(arr, 0, n - 1, x);
 	if (res == -1) cout << "Элемент " << x << " не найден" << endl;
 	else cout << "Элемент " << x << " найден по индексу " << res << endl;
-	int resr = binarySearchRecursive(arr, 0, n - 1, x);
-	if (resr == -1) cout << "Элемент " << x << " не найден" << endl;
-	else cout << "Элемент " << x << " найден по индексу " << resr << endl;
 	return 0;
 }
