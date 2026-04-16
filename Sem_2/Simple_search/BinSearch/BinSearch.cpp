@@ -38,7 +38,6 @@ void insertionSort(int arr[], int n) {
 	}
 }
 int main() {
-	SetConsoleCP(CP_UTF8);
 	SetConsoleOutputCP(CP_UTF8);
 	int arr[] = { 42, 53, 14, 66, 3, 234, 9, 2, 47 };
 	int n = sizeof(arr) / sizeof(arr[0]);
