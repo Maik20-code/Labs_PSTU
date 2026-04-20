@@ -176,4 +176,5 @@ int main() {
 	cout << endl;
 	destroyList(myList);
 	printList(myList);
+	return 0;
 }
