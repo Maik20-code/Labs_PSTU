@@ -57,7 +57,7 @@ int top(Stack& st) {
 	return st.topNode->data;
 }
 void saveStackToFile(const Stack& st, const string& filename) {
-	ofstream file(filename);;
+	ofstream file(filename);
 	StackElem* current = st.topNode;
 	while (current != nullptr) {
 		file << current->data << endl;
