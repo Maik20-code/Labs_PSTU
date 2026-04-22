@@ -78,3 +78,5 @@
 | 19.4  |  CountSort  |  🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/CountSort/CountSort.cpp)  |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/CountSort/CountSort.jpg)  |
 | 20.1  |  ShellSort  |  🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/ShellSort/ShellSort.cpp)  |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/ShellSort/ShellSort.jpg)  |
 | 20.2  |  HoareSort  |  🟢/🟢  |  [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/HoarSort/HoarSort.cpp)  |  [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/HoarSort/HoareSort.jpg)  |
+| 21.1  | NaturalSort |  🟢/🟢  | [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/NaturalSort/NaturalSort.cpp) | [sheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/NaturalSort/NativeSort.jpg) |
+| 22.1  | PolyphaseSort |  🟢/🟢  | [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/PolyphaseSort/PolyphaseSort.cpp) | [sheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/PolyphaseSort/PolyphaseSort.jpg) |
