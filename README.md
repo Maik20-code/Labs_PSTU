@@ -94,6 +94,6 @@
 | 34 | Class11_7 | 🟢/🟢 | [rep](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/Classes/Class11) | [UML](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Classes/Class11/Class11.png) |
 | 35 | Class12_7 | 🟢/🟢 | [rep](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/Classes/Class12) | [UML](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Classes/Class12/Class12.png) |
 | 36 | Class13_7 | 🟢/🟢 | [rep](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/Classes/Class13) | [UML](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Classes/Class13/Class13.png) |
-| 37 | BinTree | 🟢/🟢 | [ret](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/BinTree) | [UML](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/BinTree/BinaryTree.png) |
-| 38 | Graph | 🟢/🟢 | [ret](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/GraphLab) | [UML](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/GraphLab/Graph.png) |
+| 37 | BinTree | 🟢/🟢 | [rep](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/BinTree) | [UML](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/BinTree/BinaryTree.png) |
+| 38 | Graph | 🟢/🟢 | [rep](https://github.com/Maik20-code/Labs_PSTU/tree/main/Sem_2/GraphLab) | [UML](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/GraphLab/Graph.png) |
 | 39 | Kommiv | 🟢/🟢 | [code](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Kommivoyjar/main.cpp) | [scheme](https://github.com/Maik20-code/Labs_PSTU/blob/main/Sem_2/Kommivoyjar/Kommivoyjar.jpg) |
